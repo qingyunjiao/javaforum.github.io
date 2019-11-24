@@ -16,6 +16,8 @@
 1. [java1_chapter911_interface.zip(Java入门学习-手写接口小Demo) 2019-10-12](http://www.gyun.org/java1_chapter911_interface.zip?_blank)    
 1. [java1_chapter912_exception2.rar(Java入门学习-手写异常小Demo) 2019-10-17) 2019-09-22](http://www.gyun.org/java1_chapter912_exception2.rar?_blank)    
 1. [java1_chapter918_extends.rar(Java扩展学习-手写equals方法的使用小Demo) 2019-10-16](http://www.gyun.org/java1_chapter918_extends.rar?_blank)    
+1. [java2_chapter6_xml1(To_be_updated).zip(Java进阶-手写XML小Demo) 2019-11-12](http://www.gyun.org/java2_chapter6_xml1(To_be_updated).zip?_blank)    
+1. [WEB前端表单表格列表demo.rar(JavaWEB进阶-手写小Demo) 2019-11-23](http://www.gyun.org/web前端表单表格列表demo.rar?_blank) 
 1. [java6_chapter2_session_cookie_application.zip(手写数据的传递和保存小Demo)  2019-07-26](http://www.gyun.org/java6_chapter2_session_cookie_application.zip?_blank)     
 1. [java6_chapter3_jdbc.zip(手写JDBC小Demo)  2019-07-29](http://www.gyun.org/java6_chapter3_jdbc.zip?_blank "javaweb　手写JDBC")  
 1. [java6_chapter4_dao.zip(手写Dao小Demo)　2019-07-31](http://www.gyun.org/java6_chapter4_dao.zip?_blank "javaweb　手写Dao")  
@@ -35,9 +37,10 @@
 1. [声明式事务的注解方式.rar(手写声明式事务的注解方式文档资料（含代码）)　2019-10-09　更新2019-10-12](http://www.gyun.org/声明式事务的注解方式.rar?_blank )
 1. [Spring的数据源配置.rar(手写Spring的数据源配置文档资料（含代码）)　2019-10-09](http://www.gyun.org/Spring的数据源配置.rar?_blank )
 1. [java7_chapter8_springmvc.rar(手写SpringMVC的搭建小Demo)　2019-10-20](http://www.gyun.org/java7_chapter8_springmvc.rar?_blank )
-1. [springboot的maven配置方式.rar(手写springboot的maven配置方式文档)　2019-11-06](http://www.gyun.org/springboot的maven配置方式.rar?_blank )
+1. [springboot的maven配置方式.rar(手写springboot的maven配置方式文档)　2019-11-06 更新时间2019-11-07](http://www.gyun.org/springboot的maven配置方式.rar?_blank )
 1. [apache-maven-3.6.0-bin.zip(官网maven3.6.0)　2019-11-06](http://www.gyun.org/apache-maven-3.6.0-bin.zip?_blank )
 1. [apache-maven-3.6.0-src.zip(官网maven3.6.0)　2019-11-06](http://www.gyun.org/apache-maven-3.6.0-src.zip?_blank )
+1. [Spring Boot 手写Productqualitymanager项目在线演示（含分页、ajax异步刷新和前后端分离技术）　2019-11-23](http://myxyz.com.cn/productqualitymanager?_blank )
 
 
 <p>
@@ -45,6 +48,13 @@
 <p class="reds margins font" align="center"><span class="font">教学模式为</span>：<strong>线上</strong>(在线视频：PC+ANDROID+IOS都可以在线看)+<strong>线下</strong>(面授：来学校上课)+<strong>实训</strong>(就业指导)+<strong>推荐工作</strong></p>
 
 
+
+<p class="blue margins font2" align="center"><strong  class="red" >另有：</strong>大批有开发经验的Java工程师需要在年底找工作，有需要招聘的单位，请速与我联系！<a
+            target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1050968899&site=qq&menu=yes"><img border="0"
+                                                                                                    src="http://wpa.qq.com/pa?p=2:1050968899:52"
+                                                                                                    alt="点击这里给我发消息"
+                                                                                                    title="点击这里给我发消息"/></a>&nbsp
+    </p>
 
 ----------
 
